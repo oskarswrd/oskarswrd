@@ -3,7 +3,7 @@ I'm a developer who likes low-level programming
 
 ## More specifically
 
-<table>
+<table border="0">
   <tr>
     <td>
 
